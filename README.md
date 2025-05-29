@@ -20,10 +20,10 @@ CUDA Toolkit 下载地址：https://developer.nvidia.com/cuda-toolkit
 
 以下分别是播放时对于音频和视频的AI字幕截图，音频使用了一个早期的广播电台节目录音，视频使用了一个短剧的视频。
 
-音频播放：
+音频播放时的AI字幕：
 
 ![audio](https://github.com/user-attachments/assets/d448e89b-40ec-4583-b372-9a506d4ad49d)
 
-视频播放：
+视频播放时的AI字幕：
 
 ![video](https://github.com/user-attachments/assets/58487e4b-1c6d-437c-b4e3-b9de13674b15)
