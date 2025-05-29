@@ -1,5 +1,5 @@
 # MyMediaPlayer
-一个支持实时AI字幕的音视频播放器
+一个支持实时AI字幕和字幕翻译功能的音视频播放器
 
 1.MyMediaPlayer.zip 为主程序，无需安装，解压后即可运行。
 
