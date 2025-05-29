@@ -28,5 +28,8 @@ CUDA Toolkit 下载地址：https://developer.nvidia.com/cuda-toolkit
 
 ![video](https://github.com/user-attachments/assets/58487e4b-1c6d-437c-b4e3-b9de13674b15)
 
+
+
+
 软件较大，放在了百度网盘，下载地址如下：
 https://pan.baidu.com/s/1lCeClnMZntVzkvqYlE9FLA?pwd=4bgk 提取码: 4bgk 
